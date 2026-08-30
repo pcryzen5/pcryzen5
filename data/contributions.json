@@ -1,22 +1,22 @@
 {
   "username": "pcryzen5",
-  "generated_at": "2026-08-29T12:44:24Z",
+  "generated_at": "2026-08-30T12:00:42Z",
   "range": {
-    "start": "2025-08-24",
+    "start": "2025-08-31",
+    "end": "2026-08-30"
+  },
+  "total_contributions": 102,
+  "active_days": 40,
+  "avg_per_active_day": 2.5,
+  "current_streak": {
+    "length": 39,
+    "start": "2026-07-22",
     "end": "2026-08-29"
   },
-  "total_contributions": 101,
-  "active_days": 39,
-  "avg_per_active_day": 2.6,
-  "current_streak": {
-    "length": 38,
-    "start": "2026-07-22",
-    "end": "2026-08-28"
-  },
   "longest_streak": {
-    "length": 38,
+    "length": 39,
     "start": "2026-07-22",
-    "end": "2026-08-28"
+    "end": "2026-08-29"
   },
   "best_day": {
     "date": "2026-08-01",
@@ -73,38 +73,10 @@
     },
     {
       "month": "2026-08",
-      "total": 70
+      "total": 71
     }
   ],
   "days": [
-    {
-      "date": "2025-08-24",
-      "count": 0
-    },
-    {
-      "date": "2025-08-25",
-      "count": 0
-    },
-    {
-      "date": "2025-08-26",
-      "count": 0
-    },
-    {
-      "date": "2025-08-27",
-      "count": 0
-    },
-    {
-      "date": "2025-08-28",
-      "count": 0
-    },
-    {
-      "date": "2025-08-29",
-      "count": 0
-    },
-    {
-      "date": "2025-08-30",
-      "count": 0
-    },
     {
       "date": "2025-08-31",
       "count": 0
@@ -1559,6 +1531,10 @@
     },
     {
       "date": "2026-08-29",
+      "count": 1
+    },
+    {
+      "date": "2026-08-30",
       "count": 0
     }
   ]
